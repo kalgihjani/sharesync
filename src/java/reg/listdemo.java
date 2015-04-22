@@ -35,8 +35,8 @@ import java.util.List;
 
 public class listdemo {
 
-  private static String CLIENT_ID = "1057212581093-1v1och7f60nteqq5irs9s4bcu1ticeph.apps.googleusercontent.com";
-  private static String CLIENT_SECRET = "q_XJEx_YukYrn18pJGWD8BtL";
+  private static String CLIENT_ID = "<put your client id provided by google>.apps.googleusercontent.com";
+  private static String CLIENT_SECRET = "<put your client secret>";
 
   private static String REDIRECT_URI = "http://hellopratixadrive.appspot.com/hellodevanshi";
   
