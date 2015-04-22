@@ -40,8 +40,8 @@ public class sendmail extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
-    private static String CLIENT_ID = "1057212581093-1v1och7f60nteqq5irs9s4bcu1ticeph.apps.googleusercontent.com";
-  private static String CLIENT_SECRET = "q_XJEx_YukYrn18pJGWD8BtL";
+    private static String CLIENT_ID = "<put your client id here>.apps.googleusercontent.com";
+  private static String CLIENT_SECRET = "<put your client secret here>";
 
   private static String REDIRECT_URI = "http://hellopratixadrive.appspot.com/hellodevanshi";
     
